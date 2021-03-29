@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Hello Worlddd</string>
+    <string name="instruction_text">Play with the lifecycle!</string>
+    <string name="button_finish">Finish</string>
+</resources>
